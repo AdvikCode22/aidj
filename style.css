@@ -1,0 +1,64 @@
+.heading{
+    width:100%;
+    margin-top: 0;
+    font-size: 30px;
+    box-shadow: 0px 2px 5px whitesmoke;
+    text-shadow: 1px 1px 5px rgb(54, 54, 54);
+    letter-spacing: 5px;;
+}
+
+.note{
+    font-size: 15px;
+    color: darkred;
+    letter-spacing: normal;
+}
+
+body{
+    background-size: cover;
+}
+
+.img2{
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+}
+
+.leftdiv{
+    float: left;
+    margin-left: 20px;
+}
+
+.speed{
+    font-size: 20px;
+    margin: 50px;
+}
+
+.rightdiv{
+    float: right;
+    margin-right: 20px;
+}
+
+.vol{
+    font-size: 20px;
+    margin: 50px;
+}
+
+.footer{
+    position: fixed;
+    bottom: 0;
+    background-color: rgb(31, 31, 31);
+    color: aquamarine;
+    width: 100%;
+    font-size: 20px;
+    margin-bottom: 0px;
+}
+
+canvas{
+    background-color: white;
+    border-radius: 10px;
+    margin-top: 20px;
+    border-style: solid;
+    border-color: antiquewhite;
+    box-shadow: 5px 5px 5px rgb(142, 142, 142);
+    border-width: 7px;
+}
